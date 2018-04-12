@@ -5,7 +5,7 @@ require 'open-uri'
 # on définit une fonction cryptocurrency_prices
 def cryptocurrency_prices
 i = 0
-	until i == 180
+	until i == 1800
 	puts "Soit patient, tu vas connaitre le prix des cryptomonnaies !"
 	
 	hash_array = {} # on fait un hash

@@ -1,6 +1,6 @@
 L'art du scrapping !
 
-Voici ma production chèr correcteur !
+Voici ma production chère correcteur !
 
 a) Route de la mairie : check 
   
@@ -8,10 +8,11 @@ a) Route de la mairie : check
   
 b) Trader de l'obscur : check 
 
-  Ce programme donne te donne le prix des cryptomonnaie.
+  Ce programme te donne le prix des cryptomonnaie.
   
 c) Route des incubateurs : RIP
 
    So hard, sorry !
+   
    
 Bon courage et merci pour la correction !
